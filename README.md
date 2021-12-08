@@ -17,4 +17,6 @@ this is my #Day8 on this #100DaysofcodewithDSA
  --get min at pop
  
  #Day11
- -Nothing to do 
+ -infix to postfix operation
+ -postfix naive method as well as stack method
+ -solve problem on gfg
